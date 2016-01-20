@@ -1,6 +1,6 @@
 # Ipconv 
 
-* Convert ip address to decimal value or converse.  
+* Convert ip address to decimal value or reverse.  
 
 ## Usage
 
