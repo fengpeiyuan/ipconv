@@ -19,7 +19,7 @@
 
 * Use pure lua to operate bit, bitopt.lua is a choice, please see ipconv.lua when import this module.
 
-* Use C library please install LuaBitOp to generate a bit.so firstly. See INSTALL file in LuaBitOp-<version>.tar.gz 
+* Use C library please install LuaBitOp to generate a bit.so firstly. See INSTALL file in LuaBitOp-<version>.tar.gz, or http://bitop.luajit.org/
 
 ## License
 
